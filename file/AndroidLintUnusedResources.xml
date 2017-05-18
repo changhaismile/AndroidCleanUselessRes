@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>10</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.day&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>5</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.default_value&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>101</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.friday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>8</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.location_fail&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>97</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.monday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>9</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.month&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>116</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_all&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>107</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_comprehensive&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>114</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_entertainment&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>111</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_financial&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>109</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_international&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>108</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_national&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>113</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_political&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>115</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_science_and_technology&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>112</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_social&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>110</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_sport&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>106</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_unknown&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>102</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.saturday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>103</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.sunday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>11</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.temperature_to&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>12</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.temperature_to_simple&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>6</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.temperature_unit&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>7</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.temperature_unit_simple&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>100</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.thursday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>98</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.tuesday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>81</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_time_day&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>83</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_time_forecast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>82</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_time_night&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>80</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_time_real&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>16</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_clear&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>17</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_cloudy&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>23</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_drizzle&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>37</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_drizzle_to_moderate_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>45</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_dust&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>34</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_fog&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>35</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_freezing_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>52</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_haze&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>25</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>39</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_rain_to_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>27</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>47</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_sands_storm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>32</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>44</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_snow_to_snowstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>41</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_to_super_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>51</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_light_fog&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>30</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_light_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>42</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_light_to_moderate_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>24</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_moderate_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>31</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_moderate_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>38</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_moderate_to_heavy_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>43</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_moderate_to_heavy_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>18</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_overcast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>26</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>40</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_rainstorm_to_heavy_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>46</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_sand&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>36</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_sands_storm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>19</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_showers&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>22</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_sleet&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>29</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_snow_showers&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>33</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_snowstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>28</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_super_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>21</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_thunderstorms_accompanied_hail&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>20</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_thundery_shower&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>53</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_to&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>49</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_tornado&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>48</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_whirlwind&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>50</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_wind_blowing_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>99</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wednesday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>58</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_east&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>56</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_no_sustained_wind&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>64</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_north&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>57</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_northeast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>63</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_northwest&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>60</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_south&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>59</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_southeast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>61</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_southwest&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>65</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_uncertain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>62</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_west&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>68</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_0&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>69</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_1&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>70</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_2&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>71</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_3&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>72</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_4&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>73</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_5&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>74</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_6&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>75</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_7&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>76</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_8&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml</file>
+    <line>77</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_9&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_19_fog.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_19_fog.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_19_fog&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_28_moderate_to_heavy_snow.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_28_moderate_to_heavy_snow.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_28_moderate_to_heavy_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_13_super_rainstorm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_13_super_rainstorm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_13_super_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_22_drizzle_to_moderate_rain.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_22_drizzle_to_moderate_rain.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_22_drizzle_to_moderate_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_26_heavy_to_super_rainstorm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_26_heavy_to_super_rainstorm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_26_heavy_to_super_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_36_light_fog.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_36_light_fog.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_36_light_fog&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_35_wind_blowing_snow.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_35_wind_blowing_snow.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_35_wind_blowing_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_07_sleet.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_07_sleet.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_07_sleet&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_24_heavy_rain_to_rainstorm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_24_heavy_rain_to_rainstorm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_24_heavy_rain_to_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_29_heavy_snow_to_snowstorm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_29_heavy_snow_to_snowstorm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_29_heavy_snow_to_snowstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_05_thundery_shower.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_05_thundery_shower.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_05_thundery_shower&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_16_moderate_snow.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_16_moderate_snow.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_16_moderate_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_25_rainstorm_to_heavy_rainstorm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_25_rainstorm_to_heavy_rainstorm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_25_rainstorm_to_heavy_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_14_snow_showers.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_14_snow_showers.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_14_snow_showers&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_09_moderate_rain.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_09_moderate_rain.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_09_moderate_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_01_clear.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_01_clear.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_01_clear&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_17_heavy_snow.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_17_heavy_snow.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_17_heavy_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_15_light_snow.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_15_light_snow.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_15_light_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_31_sand.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_31_sand.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_31_sand&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_02_cloudy.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_02_cloudy.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_02_cloudy&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_20_freezing_rain.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_20_freezing_rain.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_20_freezing_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_27_light_to_moderate_snow.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_27_light_to_moderate_snow.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_27_light_to_moderate_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_37_haze.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_37_haze.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_37_haze&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_33_whirlwind.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_33_whirlwind.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_33_whirlwind&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_23_moderate_to_heavy_rain.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_23_moderate_to_heavy_rain.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_23_moderate_to_heavy_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_34_tornado.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_34_tornado.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_34_tornado&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_10_heavy_rain.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_10_heavy_rain.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_10_heavy_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_11_rainstorm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_11_rainstorm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_11_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_08_drizzle.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_08_drizzle.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_08_drizzle&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_04_showers.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_04_showers.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_04_showers&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_32_heavy_sands_storm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_32_heavy_sands_storm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_32_heavy_sands_storm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_default.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_default.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_default&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_12_heavy_rainstorm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_12_heavy_rainstorm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_12_heavy_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_18_snowstorm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_18_snowstorm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_18_snowstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_03_overcast.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_03_overcast.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_03_overcast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_06_thunderstorms_accompanied_hail.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_06_thunderstorms_accompanied_hail.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_06_thunderstorms_accompanied_hail&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_30_dust.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_30_dust.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_30_dust&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_21_sands_storm.png</file>
+    <line>0</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/drawable-mdpi/weather_21_sands_storm.png" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.drawable.weather_21_sands_storm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>9</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.day&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>5</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.default_value&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>99</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.friday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>7</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.location_fail&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>95</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.monday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>8</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.month&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>114</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_all&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>105</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_comprehensive&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>112</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_entertainment&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>109</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_financial&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>107</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_international&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>106</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_national&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>111</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_political&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>113</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_science_and_technology&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>110</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_social&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>108</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_sport&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>104</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.news_category_unknown&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>100</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.saturday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>101</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.sunday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>10</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.temperature_to&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>129</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.temperature_to_simple&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>6</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.temperature_unit&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>128</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.temperature_unit_simple&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>98</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.thursday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>96</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.tuesday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>79</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_time_day&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>81</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_time_forecast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>80</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_time_night&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>78</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_time_real&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>14</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_clear&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>15</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_cloudy&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>21</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_drizzle&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>35</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_drizzle_to_moderate_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>43</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_dust&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>32</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_fog&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>33</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_freezing_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>50</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_haze&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>23</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>37</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_rain_to_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>25</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>45</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_sands_storm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>30</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>42</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_snow_to_snowstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>39</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_heavy_to_super_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>49</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_light_fog&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>28</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_light_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>40</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_light_to_moderate_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>22</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_moderate_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>29</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_moderate_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>36</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_moderate_to_heavy_rain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>41</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_moderate_to_heavy_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>16</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_overcast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>24</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>38</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_rainstorm_to_heavy_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>44</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_sand&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>34</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_sands_storm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>17</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_showers&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>20</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_sleet&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>27</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_snow_showers&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>31</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_snowstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>26</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_super_rainstorm&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>19</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_thunderstorms_accompanied_hail&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>18</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_thundery_shower&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>51</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_to&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>47</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_tornado&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>46</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_whirlwind&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>48</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.weather_type_wind_blowing_snow&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>97</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wednesday&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>56</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_east&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>54</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_no_sustained_wind&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>62</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_north&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>55</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_northeast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>61</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_northwest&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>58</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_south&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>57</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_southeast&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>59</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_southwest&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>63</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_uncertain&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>60</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_direction_west&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>66</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_0&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>67</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_1&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>68</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_2&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>69</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_3&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>70</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_4&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>71</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_5&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>72</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_6&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>73</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_7&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>74</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_8&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml</file>
+    <line>75</line>
+    <module>XCTSPProxy</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused resources</problem_class>
+    <hints />
+    <description>&lt;html&gt;The resource &lt;code&gt;R.string.wind_power_9&lt;/code&gt; appears to be unused&lt;/html&gt;</description>
+  </problem>
+</problems>
+

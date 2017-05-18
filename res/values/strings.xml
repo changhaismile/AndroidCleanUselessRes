@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Commons -->
+    <string name="default_value">--</string>
+
+
+
+
+
+
+
+
+
+    <!-- Weather type -->
+    <string name="weather_type_clear">Clear</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Wind direction -->
+    <string name="wind_direction_no_sustained_wind">Chopping wind</string>
+
+
+
+
+
+
+
+
+
+
+    <!-- Wind power -->
+    <string name="wind_power_0">breeze</string>
+
+
+
+
+
+
+
+
+
+
+    <!-- Wind time -->
+    <string name="weather_time_real">real time</string>
+
+
+
+
+    <!-- Stock type -->
+    <string name="stock_type_a_stock">A股</string>
+    <string name="stock_type_b_stock">B股</string>
+    <string name="stock_type_close_end_funds">封基</string>
+    <string name="stock_type_etf">ETF</string>
+    <string name="stock_type_national_debt">国债</string>
+    <string name="stock_type_index">指数</string>
+    <string name="stock_type_lof">LOF</string>
+    <string name="stock_type_warrant">权证</string>
+    <string name="stock_type_bonds">债券</string>
+
+    <!-- Day of week -->
+    <string name="monday">周一</string>
+
+
+
+
+
+
+
+    <!-- News category -->
+    <string name="news_category_unknown">未知</string>
+
+
+
+
+
+
+
+
+
+
+
+    <!-- 日期 -->
+    <string name="date_second_ago"><xliff:g>%1$d</xliff:g>秒前</string>
+    <string name="date_minute_ago"><xliff:g>%1$d</xliff:g>分钟前</string>
+    <string name="date_hour_ago"><xliff:g>%1$d</xliff:g>小时前</string>
+    <string name="date_day_ago"><xliff:g>%1$d</xliff:g>天前</string>
+    <string name="date_month_ago"><xliff:g>%1$d</xliff:g>月前</string>
+    <string name="date_year_ago"><xliff:g>%1$d</xliff:g>年前</string>
+
+    <!-- City Event -->
+    <string name="damai">大麦</string>
+    <string name="douban">豆瓣</string>
+    <string name="unknown">未知</string>
+</resources>

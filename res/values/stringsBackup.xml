@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Commons -->
+    <string name="default_value">--</string>
+    <string name="temperature_unit">℃</string>
+    <string name="temperature_unit_simple">°</string>
+    <string name="location_fail">failed to get location</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="temperature_to">~</string>
+    <string name="temperature_to_simple">/</string>
+    <string name="unknown_error">unknown error</string>
+
+    <!-- Weather type -->
+    <string name="weather_type_clear">Clear</string>
+    <string name="weather_type_cloudy">Cloudy</string>
+    <string name="weather_type_overcast">Overcast</string>
+    <string name="weather_type_showers">Showers</string>
+    <string name="weather_type_thundery_shower">Storm</string>
+    <string name="weather_type_thunderstorms_accompanied_hail">Thundershower&amp;hail</string>
+    <string name="weather_type_sleet">Sleet</string>
+    <string name="weather_type_drizzle">Light rain</string>
+    <string name="weather_type_moderate_rain">Moderate rain</string>
+    <string name="weather_type_heavy_rain">Heavy rain</string>
+    <string name="weather_type_rainstorm">Rainstrom</string>
+    <string name="weather_type_heavy_rainstorm">Heavy rainstorm</string>
+    <string name="weather_type_super_rainstorm">Super rainstorm</string>
+    <string name="weather_type_snow_showers">Snow shower</string>
+    <string name="weather_type_light_snow">Light snow</string>
+    <string name="weather_type_moderate_snow">Moderate snow</string>
+    <string name="weather_type_heavy_snow">Heavy snow</string>
+    <string name="weather_type_snowstorm">Snowstorm</string>
+    <string name="weather_type_fog">Fog</string>
+    <string name="weather_type_freezing_rain">Freezing rain</string>
+    <string name="weather_type_sands_storm">Sandstorm</string>
+    <string name="weather_type_drizzle_to_moderate_rain">Light rain-moderate rain</string>
+    <string name="weather_type_moderate_to_heavy_rain">Moderate rain-heavy rain</string>
+    <string name="weather_type_heavy_rain_to_rainstorm">Heavy rain-rainstrom</string>
+    <string name="weather_type_rainstorm_to_heavy_rainstorm">Rainstrom-heavy rainstorm</string>
+    <string name="weather_type_heavy_to_super_rainstorm">Heavy rainstorm-super rainstorm</string>
+    <string name="weather_type_light_to_moderate_snow">Light snow-moderate snow</string>
+    <string name="weather_type_moderate_to_heavy_snow">Moderate snow-heavy snow</string>
+    <string name="weather_type_heavy_snow_to_snowstorm">Heavy snow-snowstorm</string>
+    <string name="weather_type_dust">Floating dust</string>
+    <string name="weather_type_sand">Blowing sands</string>
+    <string name="weather_type_heavy_sands_storm">Heavy sandstorm</string>
+    <string name="weather_type_whirlwind">Squall</string>
+    <string name="weather_type_tornado">Tornado</string>
+    <string name="weather_type_wind_blowing_snow">Light blowing snow</string>
+    <string name="weather_type_light_fog">Light fog</string>
+    <string name="weather_type_haze">Haze</string>
+    <string name="weather_type_to">&#160;to&#160;</string>
+
+    <!-- Wind direction -->
+    <string name="wind_direction_no_sustained_wind">Chopping wind</string>
+    <string name="wind_direction_northeast">Northeast wind</string>
+    <string name="wind_direction_east">East wind</string>
+    <string name="wind_direction_southeast">Southeast wind</string>
+    <string name="wind_direction_south">South wind</string>
+    <string name="wind_direction_southwest">Southwest wind</string>
+    <string name="wind_direction_west">West wind</string>
+    <string name="wind_direction_northwest">Northwest wind</string>
+    <string name="wind_direction_north">North wind</string>
+    <string name="wind_direction_uncertain">Variable winds</string>
+
+    <!-- Wind power -->
+    <string name="wind_power_0">breeze</string>
+    <string name="wind_power_1">3~4 grade</string>
+    <string name="wind_power_2">4~5 grade</string>
+    <string name="wind_power_3">5~6 grade</string>
+    <string name="wind_power_4">6~7 grade</string>
+    <string name="wind_power_5">7~8 grade</string>
+    <string name="wind_power_6">8~9 grade</string>
+    <string name="wind_power_7">9~10 grade</string>
+    <string name="wind_power_8">10~11 grade</string>
+    <string name="wind_power_9">11~12 grade</string>
+
+    <!-- Wind time -->
+    <string name="weather_time_real">real time</string>
+    <string name="weather_time_day">day</string>
+    <string name="weather_time_night">night</string>
+    <string name="weather_time_forecast">all day</string>
+
+    <!-- Stock type -->
+    <string name="stock_type_a_stock">A股</string>
+    <string name="stock_type_b_stock">B股</string>
+    <string name="stock_type_close_end_funds">封基</string>
+    <string name="stock_type_etf">ETF</string>
+    <string name="stock_type_national_debt">国债</string>
+    <string name="stock_type_index">指数</string>
+    <string name="stock_type_lof">LOF</string>
+    <string name="stock_type_warrant">权证</string>
+    <string name="stock_type_bonds">债券</string>
+
+    <!-- Day of week -->
+    <string name="monday">周一</string>
+    <string name="tuesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thursday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+    <string name="sunday">周日</string>
+
+    <!-- News category -->
+    <string name="news_category_unknown">未知</string>
+    <string name="news_category_comprehensive">综合</string>
+    <string name="news_category_national">国内</string>
+    <string name="news_category_international">国际</string>
+    <string name="news_category_sport">体育</string>
+    <string name="news_category_financial">金融</string>
+    <string name="news_category_social">社会</string>
+    <string name="news_category_political">政治</string>
+    <string name="news_category_entertainment">娱乐</string>
+    <string name="news_category_science_and_technology">科学技术</string>
+    <string name="news_category_all">全部</string>
+
+    <!-- 日期 -->
+    <string name="date_second_ago"><xliff:g>%1$d</xliff:g>秒前</string>
+    <string name="date_minute_ago"><xliff:g>%1$d</xliff:g>分钟前</string>
+    <string name="date_hour_ago"><xliff:g>%1$d</xliff:g>小时前</string>
+    <string name="date_day_ago"><xliff:g>%1$d</xliff:g>天前</string>
+    <string name="date_month_ago"><xliff:g>%1$d</xliff:g>月前</string>
+    <string name="date_year_ago"><xliff:g>%1$d</xliff:g>年前</string>
+
+    <!-- City Event -->
+    <string name="damai">大麦</string>
+    <string name="douban">豆瓣</string>
+    <string name="unknown">未知</string>
+</resources>
