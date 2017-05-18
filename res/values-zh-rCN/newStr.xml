@@ -2,83 +2,83 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Commons -->
-
-
-
-
-
-
+    <string name="default_value">--</string>
+    <string name="temperature_unit">℃</string>
+    <string name="location_fail">定位失败</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="temperature_to">~</string>
     <string name="unknown_error">未知错误</string>
 
     <!-- Weather type -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <string name="weather_type_clear">晴</string>
+    <string name="weather_type_cloudy">多云</string>
+    <string name="weather_type_overcast">阴</string>
+    <string name="weather_type_showers">阵雨</string>
+    <string name="weather_type_thundery_shower">雷阵雨</string>
+    <string name="weather_type_thunderstorms_accompanied_hail">雷阵雨并伴有冰雹</string>
+    <string name="weather_type_sleet">雨夹雪</string>
+    <string name="weather_type_drizzle">小雨</string>
+    <string name="weather_type_moderate_rain">中雨</string>
+    <string name="weather_type_heavy_rain">大雨</string>
+    <string name="weather_type_rainstorm">暴雨</string>
+    <string name="weather_type_heavy_rainstorm">大暴雨</string>
+    <string name="weather_type_super_rainstorm">特大暴雨</string>
+    <string name="weather_type_snow_showers">阵雪</string>
+    <string name="weather_type_light_snow">小雪</string>
+    <string name="weather_type_moderate_snow">中雪</string>
+    <string name="weather_type_heavy_snow">大雪</string>
+    <string name="weather_type_snowstorm">暴雪</string>
+    <string name="weather_type_fog">雾</string>
+    <string name="weather_type_freezing_rain">冻雨</string>
+    <string name="weather_type_sands_storm">沙尘暴</string>
+    <string name="weather_type_drizzle_to_moderate_rain">小雨-中雨</string>
+    <string name="weather_type_moderate_to_heavy_rain">中雨-大雨</string>
+    <string name="weather_type_heavy_rain_to_rainstorm">大雨-暴雨</string>
+    <string name="weather_type_rainstorm_to_heavy_rainstorm">暴雨-大暴雨</string>
+    <string name="weather_type_heavy_to_super_rainstorm">大暴雨-特大暴雨</string>
+    <string name="weather_type_light_to_moderate_snow">小雪-中雪</string>
+    <string name="weather_type_moderate_to_heavy_snow">中雪-大雪</string>
+    <string name="weather_type_heavy_snow_to_snowstorm">大雪-暴雪</string>
+    <string name="weather_type_dust">浮尘</string>
+    <string name="weather_type_sand">扬沙</string>
+    <string name="weather_type_heavy_sands_storm">强沙尘暴</string>
+    <string name="weather_type_whirlwind">飑</string>
+    <string name="weather_type_tornado">龙卷风</string>
+    <string name="weather_type_wind_blowing_snow">弱高吹雪</string>
+    <string name="weather_type_light_fog">轻雾</string>
+    <string name="weather_type_haze">霾</string>
+    <string name="weather_type_to">转</string>
 
     <!-- Wind direction -->
-
-
-
-
-
-
-
-
-
-
+    <string name="wind_direction_no_sustained_wind">无持续风向风</string>
+    <string name="wind_direction_northeast">东北风</string>
+    <string name="wind_direction_east">东风</string>
+    <string name="wind_direction_southeast">东南风</string>
+    <string name="wind_direction_south">南风</string>
+    <string name="wind_direction_southwest">西南风</string>
+    <string name="wind_direction_west">西风</string>
+    <string name="wind_direction_northwest">西北风</string>
+    <string name="wind_direction_north">北风</string>
+    <string name="wind_direction_uncertain">旋转不定风</string>
 
     <!-- Wind power -->
-
-
-
-
-
-
-
-
-
-
+    <string name="wind_power_0">微风</string>
+    <string name="wind_power_1">3~4 级</string>
+    <string name="wind_power_2">4~5 级</string>
+    <string name="wind_power_3">5~6 级</string>
+    <string name="wind_power_4">6~7 级</string>
+    <string name="wind_power_5">7~8 级</string>
+    <string name="wind_power_6">8~9 级</string>
+    <string name="wind_power_7">9~10 级</string>
+    <string name="wind_power_8">10~11 级</string>
+    <string name="wind_power_9">11~12 级</string>
 
     <!-- Wind time -->
-
-
-
-
+    <string name="weather_time_real">实时</string>
+    <string name="weather_time_day">白天</string>
+    <string name="weather_time_night">夜晚</string>
+    <string name="weather_time_forecast">全天</string>
 
     <!-- Stock type -->
     <string name="stock_type_a_stock">A股</string>
@@ -92,26 +92,26 @@
     <string name="stock_type_bonds">债券</string>
 
     <!-- Day of week -->
-
-
-
-
-
-
-
+    <string name="monday">周一</string>
+    <string name="tuesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thursday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+    <string name="sunday">周日</string>
 
     <!-- News category -->
-
-
-
-
-
-
-
-
-
-
-
+    <string name="news_category_unknown">未知</string>
+    <string name="news_category_comprehensive">综合</string>
+    <string name="news_category_national">国内</string>
+    <string name="news_category_international">国际</string>
+    <string name="news_category_sport">体育</string>
+    <string name="news_category_financial">金融</string>
+    <string name="news_category_social">社会</string>
+    <string name="news_category_political">政治</string>
+    <string name="news_category_entertainment">娱乐</string>
+    <string name="news_category_science_and_technology">科学技术</string>
+    <string name="news_category_all">全部</string>
 
     <!-- 日期 -->
     <string name="date_second_ago"><xliff:g>%1$d</xliff:g>秒前</string>
@@ -125,6 +125,6 @@
     <string name="damai">大麦</string>
     <string name="douban">豆瓣</string>
     <string name="unknown">未知</string>
-
-
+    <string name="temperature_unit_simple">°</string>
+    <string name="temperature_to_simple">/</string>
 </resources>

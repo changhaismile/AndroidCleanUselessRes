@@ -2,7 +2,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Commons -->
-    <string name="default_value">--</string>
 
 
 
@@ -11,9 +10,10 @@
 
 
 
+    <string name="unknown_error">unknown error</string>
 
     <!-- Weather type -->
-    <string name="weather_type_clear">Clear</string>
+
 
 
 
@@ -53,7 +53,7 @@
 
 
     <!-- Wind direction -->
-    <string name="wind_direction_no_sustained_wind">Chopping wind</string>
+
 
 
 
@@ -65,7 +65,7 @@
 
 
     <!-- Wind power -->
-    <string name="wind_power_0">breeze</string>
+
 
 
 
@@ -77,7 +77,7 @@
 
 
     <!-- Wind time -->
-    <string name="weather_time_real">real time</string>
+
 
 
 
@@ -94,7 +94,7 @@
     <string name="stock_type_bonds">债券</string>
 
     <!-- Day of week -->
-    <string name="monday">周一</string>
+
 
 
 
@@ -103,7 +103,7 @@
 
 
     <!-- News category -->
-    <string name="news_category_unknown">未知</string>
+
 
 
 

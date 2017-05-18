@@ -13,46 +13,42 @@ DOMTree = xml.dom.minidom.parse(currentPath + "/file/AndroidLintUnusedResources.
 collection = DOMTree.documentElement
 problems = collection.getElementsByTagName("problem")
 
-defaultLines = []
-defaultFile = open(currentPath + "/res/values/strings.xml", "r", encoding="utf-8")
-for itemDefaultLine in defaultFile.readlines():
-    defaultLines.append(itemDefaultLine)
+filePaths = os.listdir(currentPath + "/res")
 
-zhLines = []
-zhFile = open(currentPath + "/res/values-zh-rCN/strings.xml", "r", encoding="utf-8")
-for itemZhline in zhFile.readlines():
-    zhLines.append(itemZhline)
+result = {}
+for filePath in filePaths:
+    result[filePath] = []
 
 for problem in problems:
-    # 是否为无用的资源
-    problem_class = problem.getElementsByTagName("problem_class")[0]
-    # 文件类型 是字符串还是图片
+    itemFilePath = problem.getElementsByTagName("file")[0].childNodes[0].data.split("/")[-2]
     entry_point = problem.getElementsByTagName("entry_point")[0]
-    if problem_class.childNodes[0].data == "Unused resources":
-        currentLine = problem.getElementsByTagName("line")[0].childNodes[0].data
-        # 如果是字符串 且是默认字符串
-        if entry_point.getAttribute("FQNAME").endswith("/values/strings.xml"):
-            # 为了保持多次运行处理 不会误删除 设置值为 \n
-            defaultLines[int(currentLine)] = "\n"
-        # 处理图片
-        elif entry_point.getAttribute("FQNAME").endswith(".png"):
-            currentImgName = entry_point.getAttribute("FQNAME").split("/")[-1]
-            if os.path.exists(currentPath + "/res/drawable-mdpi/" + currentImgName):
-                print("删除无用资源" + currentImgName)
-                os.remove(currentPath + "/res/drawable-mdpi/" + currentImgName)
-        # 处理中文字符串
-        if entry_point.getAttribute(
-                "FQNAME") == "file://$PROJECT_DIR$/../XCTSPProxy/src/main/res/values-zh-rCN/strings.xml":
-            zhLines[int(currentLine) - 1] = "\n"
+    if itemFilePath.startswith("drawable"):
+        picName = entry_point.getAttribute("FQNAME").split("/")[-1]
+        #         处理图片 这里存储名字
+        result.get(itemFilePath).append(picName)
+    elif itemFilePath.startswith("values"):
+        strLine = currentLine = problem.getElementsByTagName("line")[0].childNodes[0].data
+        # 处理字符串 这里存储 需要处理的字符串所在行数
+        result.get(itemFilePath).append(strLine)
 
-s = ''.join(defaultLines)
-valueStr = open(currentPath + "/res/values/strings.xml", "w", encoding="utf-8")
-valueStr.write(s)
-valueStr.close()
+print(result)
 
-zhResult = ''.join(zhLines)
-zhStr = open(currentPath + "/res/values-zh-rCN/strings.xml", "w", encoding="utf-8")
-zhStr.write(zhResult)
-zhStr.close()
+for itemDir in result:
+    if itemDir.startswith("drawable"):
+        for picName in result.get(itemDir):
+            if os.path.exists(currentPath + "/res/" + itemDir + "/" + picName):
+                print("删除无用资源" + picName)
+                os.remove(currentPath + "/res/" + itemDir + "/" + picName)
+    elif itemDir.startswith("values"):
+        print(result.get(itemDir))
+        strFile = open(currentPath + "/res/" + itemDir + "/strings.xml", "r", encoding="utf-8")
+        tmpLines = strFile.readlines()
+
+        for itemStrFile in result.get(itemDir):
+            tmpLines[int(itemStrFile)-1] = "\n"
+        newFile = open(currentPath + "/res/" + itemDir + "/strings.xml", "w", encoding="utf-8")
+        newFile.write("".join(tmpLines))
+        newFile.close()
+
 
 print("清理完成")
